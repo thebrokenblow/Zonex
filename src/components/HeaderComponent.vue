@@ -1,0 +1,17 @@
+<template>
+    <div class="container">
+        <nav class="nav header__nav">
+            <ul class="nav__list">
+                <li class="nav_item"><a href="" class="nav__link">Home</a></li>
+                <li class="nav_item"><a href="" class="nav__link">Shop</a></li>
+                <li class="nav_item"><a href="" class="nav__link">Elements</a></li>
+                <li class="nav_item"><a href="" class="nav__link">Blog</a></li>
+                <li class="nav_item"><a href="" class="nav__link">Page</a></li>
+            </ul>
+        </nav>
+    </div>
+</template>
+
+<style lang="scss">
+
+</style>
